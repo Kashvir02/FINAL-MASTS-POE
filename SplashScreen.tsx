@@ -8,6 +8,8 @@ import {
   TouchableOpacity,
 } from 'react-native';
 
+ 
+
 const SplashScreen: React.FC<{ navigation: any }> = ({ navigation }) => {
   return (
     <ImageBackground
