@@ -11,6 +11,8 @@ import {
 import { useMenu } from './MenuContext';
 import { MenuItem, COURSES } from './MenuItem';
 
+
+
 const { width } = Dimensions.get('window');
 
 const FALLBACK_IMG = require('./assets/cafe_logo.jpg');
