@@ -10,6 +10,8 @@ import {
 import { useMenu } from './MenuContext';
 import { MenuItem, COURSES } from './MenuItem';
 
+
+
 const FALLBACK_IMG = require('./assets/cafe_logo.jpg');
 
 const FilterMenuScreen = () => {
