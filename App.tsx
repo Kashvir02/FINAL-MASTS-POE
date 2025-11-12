@@ -10,6 +10,8 @@ import FilterMenuScreen from './FilterMenuScreen';
 
 const Stack = createStackNavigator();
 
+
+
 export default function App() {
   return (
     <MenuProvider>
@@ -82,3 +84,5 @@ export default function App() {
 //url: https://stackoverflow.com/questions/74878749/how-can-i-implement-add-to-homescreen-button-in-a-react-app
 //Date Accessed: 2025 12 November
 //Date published: None
+
+
