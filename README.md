@@ -42,6 +42,8 @@
 ​Final Testing: Conducted end-to-end testing of the entire rewritten application (Admin workflow, Guest workflow, and data persistence).
 ​Deployment Preparation: Prepared the final TSX/JavaScript build for release.
 
+https://youtu.be/PW427k_Y6l0?si=CibDMHSh51FDGssX
+
 
 Referencing :
 
