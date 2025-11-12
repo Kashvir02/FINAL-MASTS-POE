@@ -41,3 +41,56 @@
 ​UX Refinements: Daily tasks involved visual clean-up, ensuring all components are consistent with the new theme, and checking mobile responsiveness.
 ​Final Testing: Conducted end-to-end testing of the entire rewritten application (Admin workflow, Guest workflow, and data persistence).
 ​Deployment Preparation: Prepared the final TSX/JavaScript build for release.
+
+
+Referencing :
+
+//Title: React Navigation
+//Url: https://reactnative.dev/docs/navigation
+//Date Accessed: 2025 12 November
+//Date published: None
+
+//Title: How to add splash creen in React Native
+//Url: https://aboutreact.com/react-native-splash-screen/
+//Date Accessed: 2025 12 November
+//Date published: None
+
+//Title:How to add styles
+//Author:React native.dev
+//url: https://reactnative.dev/docs/style
+//Date Accessed: 2025 12 November
+//Date published: None
+
+//title: How to add filter screen 
+//url: https://stackoverflow.com/questions/62731532/react-navigation-v5-use-drawer-to-filter-details-on-screen
+//Date Accessed: 2025 12 November
+//Date published: None
+
+
+//Title: how to set up type script
+//url: https://www.typescriptlang.org/download/
+//Date Accessed: 2025 12 November
+//Date published: None
+
+//Title: How to add homescreen
+//url: https://stackoverflow.com/questions/74878749/how-can-i-implement-add-to-homescreen-button-in-a-react-app
+//Date Accessed: 2025 12 November
+//Date published: None
+
+
+
+![LOGO CAFE](https://github.com/user-attachments/assets/35959060-900c-4814-a3a2-030b667ef35a)
+
+
+![SPLASH SCREEN](https://github.com/user-attachments/assets/78e59193-9803-4752-8f09-c9612c2eb672)
+
+
+![HOMESCREEN](https://github.com/user-attachments/assets/032572bd-03b2-4fcf-b484-92cc76c6a717)
+
+![ADD ITEM](https://github.com/user-attachments/assets/cb233be8-3cbe-491b-b60c-7c475905b738)
+
+
+![MENU FILTER](https://github.com/user-attachments/assets/ebda4f82-154b-4ecc-a732-5e747fcd80c5)
+
+
+
